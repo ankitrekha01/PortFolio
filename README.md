@@ -1,4 +1,5 @@
 # Portfolio
+![giphy](https://user-images.githubusercontent.com/62371794/179266101-af4b6220-ec68-466f-ba40-cf9e6d36ed3e.gif)
 
 # Sections
 
