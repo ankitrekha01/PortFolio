@@ -11,7 +11,7 @@ const projects = {
     {
       id: "1",
       name: "PortFolio",
-      url: "https://github.com/ankitrekha01/ankitrekha01.github.io",
+      url: "https://github.com/ankitrekha01/PortFolio",
       description: `This very portfolio website! You're here right now.Implemented this project with ReactJS and Deployed on Netlify.Wrote media queries to make sure the site looks good in all devices`,
       languages: ["ReactJs", "HTML", "CSS"],
     },
