@@ -8,7 +8,9 @@ import { CursorProvider } from "react-cursor-custom";
 import Main from "./containers/Main";
 
 function App() {
-  const [theme, setTheme] = useState(localStorage.getItem("theme") || "light");
+  // Default theme
+  // Saved in local storage
+  const [theme, setTheme] = useState(localStorage.getItem("theme") || "dark");
   // const useCursor = settings.useCustomCursor;
   const useCursor = {
     useCustomCursor: true, // Change this to false if you want the good'ol cursor
