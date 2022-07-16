@@ -27,7 +27,7 @@ const projects = {
       name: "Telegram Bot",
       url: "https://github.com/ankitrekha01/TelegramBot",
       description: `A Telegram App for tracking Covid data for daily purpose using a bot.
-        This telegram bot helps to download some amazing thumbnails used in Youtube Videos in various size`,
+        This telegram bot helps to download some amazing thumbnails used in Youtube Videos as well`,
       languages: ["Javascript", "NodeJs", "Node-Telegram-Bot"],
     },
   ],
