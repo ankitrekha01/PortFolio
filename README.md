@@ -8,7 +8,7 @@
 - Projects
 - Resume
 
-<h3>📺 Live demo</h3>
+# 📺 Live demo
 
 Check live demonstration <a href="https://ankit-kumar-portfolio-01.netlify.app/"><strong>here</strong></a>
 
