@@ -4,6 +4,7 @@ import { Route, Routes, BrowserRouter } from "react-router-dom";
 
 export default function Main(props) {
   return (
+    // In future if pages are required
     <BrowserRouter>
       <Routes>
         <Route

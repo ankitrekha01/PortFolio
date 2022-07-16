@@ -5,7 +5,7 @@ import { ThemeProvider } from "styled-components";
 import { themes } from "./theme"; 
 import { GlobalStyles } from "./global";
 import { CursorProvider } from "react-cursor-custom";
-import Main from "./containers/Main";
+import Main from "./mainContainer/Main";
 
 function App() {
   // Default theme
