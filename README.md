@@ -1,17 +1,16 @@
 # 👀 Portfolio
 ![giphy](https://user-images.githubusercontent.com/62371794/179266101-af4b6220-ec68-466f-ba40-cf9e6d36ed3e.gif)
 
+# 📺 Live demo
+
+  Check live demonstration <a href="https://ankit-kumar-portfolio-01.netlify.app/"><strong>here</strong></a>
+
 # ⚡️ Sections
 
 - About Me
 - Technology
 - Projects
 - Resume
-
-# 📺 Live demo
-
-Check live demonstration <a href="https://ankit-kumar-portfolio-01.netlify.app/"><strong>here</strong></a>
-
 
 # ⚙️ How To Use
 
