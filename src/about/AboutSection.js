@@ -10,7 +10,7 @@ function AboutSection(props) {
         <Fade left duration={2000}>
           <div className="about-image-div">
             <img
-              src={require("../assests/images/profile_pic.jpg")}
+              src={require("../assests/images/Mine.JPG")}
               alt="Profile"
             ></img>
           </div>
