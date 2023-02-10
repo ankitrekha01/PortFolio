@@ -18,7 +18,7 @@ function AboutSection(props) {
         <div className="about-text-div">
           <Fade right duration={1000}>
             <p className="about-text-p" style={{ color: theme.secondaryText }}>
-              I am a Third Year Student from the Indian Institute of Information
+              I am a Fourth Year Student from the Indian Institute of Information
               Technology, Gwalior, pursuing my B.Tech in Information Technology
               <br /><br />
               I am Full stack Developer ,I really enjoy building new things. I'm always eager to learn new concepts
