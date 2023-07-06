@@ -14,7 +14,7 @@
 
 .icon-button {
   border-radius: 2.6rem;
-  cursor: pointer;
+  cursor: none;
   display: inline-block;
   font-size: 1.3rem;
   height: 2.6rem;

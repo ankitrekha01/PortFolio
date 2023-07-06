@@ -13,6 +13,7 @@
     "baseui": "^11.2.1",
     "glamor": "^2.20.40",
     "react": "^18.2.0",
+    "react-animated-cursor": "^2.5.1",
     "react-cursor-custom": "^1.2.4",
     "react-dom": "^18.2.0",
     "react-icons": "^4.4.0",

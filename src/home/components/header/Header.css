@@ -59,7 +59,7 @@
 /* menu icon */
 
 .header .menu-icon {
-  cursor: pointer;
+  cursor: none;
   display: inline-block;
   /* float: right; */
   padding: 28px 20px;
