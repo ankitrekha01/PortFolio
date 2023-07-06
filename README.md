@@ -6,7 +6,7 @@
     <li><a href="#video">Video Demo</a></li>
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#demo">Demo</a></li>
+    <li><a href="#demo">Live Demo</a></li>
     <!-- <li><a href="#screenshots">Screenshots</a></li> -->
   </ol>
 </details>
