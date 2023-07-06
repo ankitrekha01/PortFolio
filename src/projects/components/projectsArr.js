@@ -11,10 +11,10 @@ const projects = {
     {
       id: "1",
       name: "Remote Code Executor",
-      url: "https://github.com/ankitrekha01/Online-IDE-FrontEnd",
+      url: "https://github.com/ankitrekha01/Remote-Code-Executor",
       description:
-        "A Remote Code Executor powered by NodeJS and Docker, a new container is built for every new code submitted on the server",
-      languages: ["ReactJs", "NodeJs", "ExpressJs", "Docker"],
+        "Remote Code Executor, virtual platform where you can write, edit, and run your code directly within a web browser. It is similar to the Online IDEs of websites like CodeChef and Leetcode.",
+      languages: ["ReactJs", "NodeJs", "ExpressJs", "Docker","SocketIO"],
     },
     {
       id: "2",
