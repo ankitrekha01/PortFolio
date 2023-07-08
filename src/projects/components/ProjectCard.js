@@ -2,6 +2,7 @@ import React from "react";
 import "./ProjectCard.css";
 import { Fade } from "react-reveal";
 import { style } from "glamor";
+import imageToSrc from "./image-code";
 
 export default function ProjectCard({ repo, theme }) {
   function openRepoinNewTab(url) {
@@ -38,12 +39,26 @@ export default function ProjectCard({ repo, theme }) {
           <p className="repo-description" style={{ color: theme.text }}>
             {repo.description}
           </p>
+          &nbsp;
           <div className="repo-details">
-            <p>
-              {repo.languages.map((lang,i) => (
-                <span key={i}>{lang} </span>
-              ))}
-            </p>
+            {/* <img src={require("../../assests/images/reactJS.svg").default} alt="ab"></img> */}
+            {repo.languages.map((lang, i) => (
+              <div className="repo-images tooltip">
+                {" "}
+                <img
+                  src={require(`../../assests/images/${imageToSrc[lang].src}`)}
+                  alt={lang}
+                  height="40px"
+                  width="40px"
+                  key={i}
+                />
+                <span style={{ color: theme.text }} className="tooltiptext">
+                  {imageToSrc[lang].name}
+                </span>
+                &nbsp;&nbsp;&nbsp;&nbsp;
+              </div>
+              // <span key={i}>{lang} </span>
+            ))}
           </div>
         </div>
       </Fade>

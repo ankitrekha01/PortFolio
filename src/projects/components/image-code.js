@@ -1,0 +1,49 @@
+const imageToSrc = {
+    "js":{
+        name:"Javascript",
+        src:"javascript.svg",
+        link:"https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    },
+    "react":{
+        name:"ReactJs",
+        src:"reactJS.svg",
+        link:"https://react.dev/"
+    },
+    "node":{
+        name:"NodeJs",
+        src:"nodejs.svg",
+        link:"https://nodejs.org/en"
+    },
+    "express":{
+        name:"ExpressJs",
+        src:"express-js.svg",
+        link:"https://expressjs.com/"
+    },
+    "docker":{
+        name:"Docker",
+        src:"docker.svg",
+        link:"https://www.docker.com/"
+    },
+    "redux":{
+        name:"Redux",
+        src:"redux.svg",
+        link:"https://redux.js.org/"
+    },
+    "socket":{
+        name:"SocketIO",
+        src:"socketio.svg",
+        link:"https://socket.io/"
+    },
+    "html":{
+        name:"HTML",
+        src:"html.svg",
+        link:"https://developer.mozilla.org/en-US/docs/Web/HTML"
+    },
+    "css":{
+        name:"CSS",
+        src:"css3.svg",
+        link:"https://developer.mozilla.org/en-US/docs/Web/CSS"
+    },
+}
+
+export default imageToSrc;
