@@ -1,7 +1,13 @@
 import React from "react";
 import "./SocialMedia.css";
+import leetcode from "../../../assests/images/leetcode.svg";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {faGithub, faGoogle, faInstagram, faLinkedinIn } from "@fortawesome/free-brands-svg-icons";
+import {
+  faGithub,
+  faGoogle,
+  faInstagram,
+  faLinkedinIn,
+} from "@fortawesome/free-brands-svg-icons";
 
 export default function socialMedia() {
   return (
@@ -40,6 +46,15 @@ export default function socialMedia() {
         rel="noopener noreferrer"
       >
         <FontAwesomeIcon icon={faInstagram} color="white"></FontAwesomeIcon>
+        <span></span>
+      </a>
+      <a
+        href={"https://leetcode.com/Hatsoff/"}
+        className="icon-button leetcode"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <img src={leetcode} height="25px" style={{marginTop:'7px'}} />
         <span></span>
       </a>
     </div>
