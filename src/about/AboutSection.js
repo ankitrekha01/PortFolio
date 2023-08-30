@@ -21,6 +21,9 @@ function AboutSection(props) {
               I am a Final Year Student from the Indian Institute of Information
               Technology, Gwalior, pursuing my B.Tech in Information Technology
               <br /><br />
+              I am deeply immersed in problem-solving. It's not just something I enjoy; it's part of who I am. 
+              I relish every opportunity to tackle complex challenges and find effective solutions.
+              <br /><br />
               I am Full stack Developer ,I really enjoy building new things. I'm always eager to learn new concepts
               and apply them in my projects. Currently I am actively looking for
               internship opportunities
