@@ -38,7 +38,7 @@ export default function Greeting(props) {
                   className="button"
                   onClick={() => {
                     window.open(
-                      "https://drive.google.com/file/d/17ih5rp5lwypxmuEfpfsTgscnlf4bgD8H/view?usp=sharing",
+                      "https://drive.google.com/file/d/1hCC4dyGI08Ycbcsnl9M_uATXkBPMgZEO/view?usp=drive_link",
                       "_blank"
                     );
                   }}
